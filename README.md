@@ -1,4 +1,4 @@
-# disk_archive_database_project
+# DiskArchiveDatabase
 
 University project for database class. 
 It was done in Polish.
